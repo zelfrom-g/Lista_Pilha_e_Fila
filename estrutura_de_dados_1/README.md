@@ -23,4 +23,5 @@ Este projeto foi desenvolvido como parte da disciplina de Estruturas de Dados I,
 
 ## Observações
 - O código está organizado para facilitar testes adicionais.
+- Para testar o código use o todas_implementações.cpp
 - Adicione os casos de teste no `main()` para validar cada funcionalidade implementada.
